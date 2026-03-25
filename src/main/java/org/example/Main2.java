@@ -1,4 +1,4 @@
-import org.example.DBConfig;
+package org.example;
 
 import java.sql.*;
 
